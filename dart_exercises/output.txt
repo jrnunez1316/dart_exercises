@@ -1,0 +1,6 @@
+Customer: John Reynald Nuñez
+Total: 249.95000000000002
+Full Boxes (2-pack): 2
+Leftover Items: 1
+Is Member? true
+Is the total over 100? true
